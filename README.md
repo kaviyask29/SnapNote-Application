@@ -1,5 +1,5 @@
 # SnapNote - Note-Taking Web Application
-
+## Project Description
 SnapNote is a simple yet powerful web-based note-taking application that allows users to register, log in, create, view, and delete notes. The app is built using Java for backend logic and JDBC for database interaction, ensuring robust and efficient communication with the MySQL database.
 
 ## Features
