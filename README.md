@@ -22,9 +22,9 @@ MySQL is used to store user credentials and notes securely.
 
 ## Technologies Used
 
-Backend: Java, JDBC
+Backend: Java, JDBC,JSP
 
-Frontend: JSP, HTML5, CSS3, JavaScript
+Frontend: HTML5, CSS3, JavaScript
 
 Database: MySQL
 
