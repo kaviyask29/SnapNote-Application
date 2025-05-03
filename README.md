@@ -1,8 +1,8 @@
-SnapNote - Note-Taking Web Application
+## SnapNote - Note-Taking Web Application
 
 SnapNote is a simple yet powerful web-based note-taking application that allows users to register, log in, create, view, and delete notes. The app is built using Java for backend logic and JDBC for database interaction, ensuring robust and efficient communication with the MySQL database.
 
-Features
+## Features
 
 User Registration & Login
 Secure user registration and login system to manage personal notes.
@@ -20,7 +20,7 @@ Database Integration
 MySQL is used to store user credentials and notes securely.
 
 
-Technologies Used
+## Technologies Used
 
 Backend: Java, JDBC
 
@@ -29,7 +29,7 @@ Frontend: JSP, HTML5, CSS3, JavaScript
 Database: MySQL
 
 
-How to Run
+## How to Run
 
 1. Clone the repository.
 
@@ -47,12 +47,12 @@ How to Run
 
 
 
-Folder Structure
+
+## Folder Structure
 
 /SnapNote
 ├── /src           # Java source files with JDBC logic
 ├── /WebContent    # JSP files, HTML, CSS, JS
 ├── /WEB-INF       # web.xml and configuration
-
 
 
