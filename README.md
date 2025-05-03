@@ -29,7 +29,7 @@ Frontend: JSP, HTML5, CSS3, JavaScript
 Database: MySQL
 
 
-## How to Run
+# How 
 
 1. Clone the repository.
 
