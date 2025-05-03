@@ -48,11 +48,5 @@ Database: MySQL
 
 
 
-## Folder Structure
-
-/SnapNote
-├── /src           # Java source files with JDBC logic
-├── /WebContent    # JSP files, HTML, CSS, JS
-├── /WEB-INF       # web.xml and configuration
 
 
